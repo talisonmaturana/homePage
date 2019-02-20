@@ -1,0 +1,78 @@
+nav {
+    background: #69243f;
+}
+.logo {
+    line-height: 20px;
+    color: #fff;
+    font-weight: bold;
+    font-size: 20px;
+    letter-spacing: 2px;
+    margin-top: 10px;
+}
+.nome-logo{
+    font-size: 46px;
+    color: #fff;
+    text-decoration: none;
+}
+.nome-logo:hover{
+    color: #fff;
+    text-decoration: none;
+}
+.msgLogo{
+    font-size: 10px;
+    margin-left: 10px;
+}
+body {
+    background-color: rgba(226, 100, 100, 0.01);
+    font-family: "Helvetica Neue",sans-serif;
+    font-weight: lighter;
+}
+
+footer{
+    text-align: center;
+}
+
+.form input, .form textarea{
+    background: #ccc !important;
+    font-size: 14px;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+.form{
+    margin-top: 100px;
+    margin-bottom: 180px;
+}
+.btn{
+    background: #69243f;
+    color: #fff;
+    font-weight: 600;
+    padding: 10px;
+    width: 200px;
+}
+.btn:hover{
+    background: #461929;
+    color: #dedede;
+}
+.social a{
+    color: #292929;
+    text-decoration: none;
+}
+hr{
+    border-color: #aaa;
+    box-sizing: border-box;
+    width: 100%;
+}
+h2{
+    padding: 50px 20px;
+    text-align: center;
+}
+h3{
+    text-align: center;
+    color: #69243f;
+}
+.projeto{
+    text-align: justify;
+}
+#projetos{
+    margin-top: 150px;
+}
